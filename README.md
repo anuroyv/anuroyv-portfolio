@@ -7,5 +7,5 @@ Hey! I am Anuroy, a second year grad student at Carnegie Mellon University. I am
 # What I hope to learn
 I believ that my reports and analyses lack an aesthetic in general, I am also very interested in presenting my data in a more appealing way to its audience. Apart from all this, I wish to develop a strong foundation for some of the data analytic tools that will be taught in class.
 
-#Portfolio
+# Portfolio
 Some cool assignments coming soon....
