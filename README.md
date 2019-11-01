@@ -10,3 +10,4 @@ I believe that my reports and analyses lack an aesthetic in general, I am also v
 # Portfolio
 
 Please find the code snippet for [Data Project Here.](https://github.com/anuroyv/anuroyv-portfolio/wiki/Code-Snippet)
+![Data Visualisation](raw.svg)
