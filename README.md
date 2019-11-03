@@ -9,8 +9,8 @@ I believe that my reports and analyses lack an aesthetic in general, I am also v
 
 # Portfolio
 # Government debt as a percent of its GDP
-This graph aims to manifest how different countries through their borrowing/debt assuming tendencies drive their GDP. This indirectly highlights their risk assuming capacity and debt tolerance. 
-Japan with 237% debt compared to its GDP ranks highest amongst all other countries.
+This graph aims to manifest how different countries through their borrowing/debt assuming tendencies drive their GDP. This indirectly highlights the risk assuming capacity and debt tolerance of these respective countries. 
+Japan with 237% debt compared to its GDP ranks highest amongst all other.
 <iframe src="https://data.oecd.org/chart/5Jxa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jxa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
