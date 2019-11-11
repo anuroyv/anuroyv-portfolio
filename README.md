@@ -61,7 +61,7 @@ Maine Issues with the Data viz:
 4.	Inability of bar graphs to provide proper comparison matrix for audience. 
 To solve the aforementioned issues, a simple wireframe was created, and a subsequent third-party feedback was performed to find loopholes and drawbacks in it. 
 
-![Wireframe](new doc 2019-11-10 21.25.30-1.jpg)
+![Wireframe](wireframe.jpg)
 Answers to the Feedback Questionnaire:
 - Can you tell me what you think this is?
  Reviewer 1: The design looks vague and comparison is difficult to formulate.
@@ -91,6 +91,6 @@ Donut charts were chosen to portray the primary data i.e. data related to emotio
 For an easier comparison, pie charts showing “today’s emotional responses” were inserted inside the donut chars. This drastically improved the visualization of comparison between both data sets. 
 For easier analysis the explanation of the data on the webpage was used and the emotions were grouped together to create a simplified and more compelling infographic. It was realized that the aim of the study is to understand pleasant vs unpleasant affects. Hence, all the emotions were categorized based on the detailed explanation on the webpage. 
 
-![THE RESULTING INFOGRAPHIC](Pleasant vs unpleasant.JPG)
+![THE RESULTING INFOGRAPHIC](Pleasantvsunpleasant.JPG)
 ![THE RESULTING INFOGRAPHIC](arousal.JPG)
 It should be noted that the primary audience for this infographic does not have to academics or statisticians; and further information on the data collection methodology (feline methodology) should be explained along with the data viz. 
