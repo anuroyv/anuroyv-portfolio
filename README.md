@@ -61,7 +61,7 @@ Maine Issues with the Data viz:
 4.	Inability of bar graphs to provide proper comparison matrix for audience. 
 To solve the aforementioned issues, a simple wireframe was created, and a subsequent third-party feedback was performed to find loopholes and drawbacks in it. 
 
-![Original Data Vizualisation](new doc 2019-11-10 21.25.30-1.jpg)
+![Wireframe](new doc 2019-11-10 21.25.30-1.jpg)
 Answers to the Feedback Questionnaire:
 - Can you tell me what you think this is?
  Reviewer 1: The design looks vague and comparison is difficult to formulate.
