@@ -29,3 +29,4 @@ Greece and Chile increased their respective debt % substantially and could be co
 # Tableau Exercise 
 (Heat Map)
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1536px; height: 706px;'><object class='tableauViz' width='1536' height='706' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;anuroyv' /><param name='name' value='DebtofGDP&#47;DebtofGDP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
+![Original Data Vizualisation](Counselors_Figure1big.png)
