@@ -30,4 +30,6 @@ Median Household Income Data: https://www.arcgis.com/home/item.html?id=6db428407
 4. Median Household Income for these cities would be extracted (Y-1996 to Y-2019).
 5. Tableau would be used to visualize the data and create a dashboard which tells the entire story n the most concise manner. 
 6. As a last part of the project Shorthand would be used to present the story in the most effective way by adding more compelling visuals and images to add to the value of the analysis. 
+Overall, the project would use a combination of ArcGIS and Tableau for its analysis purposes, i.e. to compute means, medians, aggregations and trend analysis. They will also be used for visualization purposes and Tableau would be speciifcally be used for creating a dashboard. 
+Later, for storytelling purposes Shorthand would be used.
 
