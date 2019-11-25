@@ -1,7 +1,14 @@
 # Telling Stories with Data | Final Group Project | Part II
 ## Initial Storyboards
 The initial storyboards were created after completing a primilinary analysis on ArcGIS to get an understanding of the dataset being analysed. The project would use GIS to create choropleth maps of U.S. counties; and Tableau to visualize trendlines of prices and income. Further to refine the dataviz, Adobe InDeisgn would be used. The mode of presentation would be based on Esri Story Maps.
-
+![slide_1](slide_1.jpg)
+#### This Slide gives the users an understanding of what the project is about and its problem statement.
+![slide_2](slide_2.jpg)
+The slide shows the housing trends and pricing forecasts for year 2024. The slider in the middle helps the user navigate both maps simultaneously.
+![slide_3](slide_3.jpg)
+The slide shows the areas when housing prices are high and might have affordability issues. These are the selected areas, where further reasearch would be conducted. 
+![slide_4](slide_4.jpg)
+These are the price-income trendlines for the chosen cities. These trendlines would demonstrate the "gap" and affordability issues. 
 ## User Research Protocol
 The intended audience for this project is general population and millenials specifically. People who have faced affordability issues when they ever thought of buying homes. A segment of the pupolation could also be casual analysts looking for price-income trends of specific cities under consideration. For feedback purposes, three Carnegie Mellon Students were chosen from diverse backgrounds and fields of interests. Their feedback was used to make alterations in the design of the story and make it more informed. The feedback was incorporated in the design of the visuals along with the methodology of story telling. 
 ### Question 1: What do you understand by the Storyboards?
