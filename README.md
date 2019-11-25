@@ -41,5 +41,15 @@ The intended audience for this project is general population and millenials spec
 #### Answer 3: Maps of cities under consideration. 
 
 ## Revised Wireframes
+Based on the feedback, it was decide that the image on the title slide would be changed to keep it more minimal and informative. It was further decided that to better visualize the impact of affordability, a simple yet effective visualization would be added to the project. The aim of this graphic would be to show how this issue affects, our generation in general. The feedback also suggested that a brief discriptive explaination of data should be added to the slides for better understanding. 
+The aim of the final project would be to:
+#### Keep the color palette constant and color changes to a miminum.
+#### Keep the visuals simple and comprehensible.
+#### Add a brief discription of the data.
+#### Keeping the overall aesthetic homogeneous across all the slides.
+#### A more simple yet discriptive Title of the project should be thought of. 
 
+### Changed/Added Slides
+![slide_5](slide_5.jpg)
+![slide_6](slide_6.jpg)
 
