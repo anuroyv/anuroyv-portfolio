@@ -52,4 +52,5 @@ The aim of the final project would be to:
 ### Changed/Added Slides
 ![slide_5](slide_5.jpg)
 ![slide_6](slide_6.jpg)
+Along with aforementioned changes, the graphs would be made more detailed with Tableau to better understand the Year on year trends in the market. 
 
