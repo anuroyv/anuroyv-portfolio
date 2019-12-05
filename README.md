@@ -1,4 +1,4 @@
-Analyzing Housing Affordability Trends of Major Cities in US | Final Group Project 
+# Analyzing Housing Affordability Trends of Major Cities in US | Final Group Project 
 ## Project Outline
 ### Housing Affordability Issue: 
 This project will aim to show how increasing disparity between income and housing prices have made it extremely difficult for people to buy homes. The difference (in affordability) will be shown by comparing median household prices and median household income over the years. 
