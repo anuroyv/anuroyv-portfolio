@@ -1,4 +1,4 @@
-# Telling Stories with Data | Final Group Project | Part 1
+Analyzing Housing Affordability Trends of Major Cities in US | Final Group Project 
 ## Project Outline
 ### Housing Affordability Issue: 
 This project will aim to show how increasing disparity between income and housing prices have made it extremely difficult for people to buy homes. The difference (in affordability) will be shown by comparing median household prices and median household income over the years. 
@@ -33,7 +33,6 @@ Median Household Income Data: https://www.arcgis.com/home/item.html?id=6db428407
 Overall, the project would use a combination of ArcGIS and Tableau for its analysis purposes, i.e. to compute means, medians, aggregations and trend analysis. They will also be used for visualization purposes and Tableau would be speciifcally be used for creating a dashboard. 
 Later, for storytelling purposes Shorthand would be used.
 
-# Telling Stories with Data | Final Group Project | Part II
 ## Initial Storyboards
 The initial storyboards were created after completing a primilinary analysis on ArcGIS to get an understanding of the dataset being analysed. The project would use GIS to create choropleth maps of U.S. counties; and Tableau to visualize trendlines of prices and income. Further to refine the dataviz, Adobe InDeisgn would be used. The mode of presentation would be based on Esri Story Maps.
 ![slide_1](slide_1.jpg)
@@ -44,6 +43,7 @@ The slide shows the housing trends and pricing forecasts for year 2024. The slid
 The slide shows the areas when housing prices are high and might have affordability issues. These are the selected areas, where further reasearch would be conducted. 
 ![slide_4](slide_4.jpg)
 These are the price-income trendlines for the chosen cities. These trendlines would demonstrate the "gap" and affordability issues. 
+
 ## User Research Protocol
 The intended audience for this project is general population and millenials specifically. People who have faced affordability issues when they ever thought of buying homes. A segment of the pupolation could also be casual analysts looking for price-income trends of specific cities under consideration. For feedback purposes, three Carnegie Mellon Students were chosen from diverse backgrounds and fields of interests. Their feedback was used to make alterations in the design of the story and make it more informed. The feedback was incorporated in the design of the visuals along with the methodology of story telling. 
 ### Question 1: What do you understand by the Storyboards?
@@ -84,7 +84,7 @@ The aim of the final project would be to:
 #### Keeping the overall aesthetic homogeneous across all the slides.
 #### A more simple yet discriptive Title of the project should be thought of. 
 
-### Changed/Added Slides
+## Changed/Added Slides
 ![slide_5](slide_5.jpg)
 ![slide_6](slide_6.jpg)
 Along with aforementioned changes, the graphs would be made more detailed with Tableau to better understand the Year on year trends in the market. 
@@ -92,6 +92,6 @@ Along with aforementioned changes, the graphs would be made more detailed with T
 ## Final Thoughts on the Project
 I had to drop some of the earier concepts that I thought would be beneficial for the project like plotting seperate trendlines for income and prices. This was done for support and reinfrocement of the narrative. The story revolves arund how the affordability in recent times in US has evolved or rather increased. The shortlisted cities show how recent generations suffers from reliability on expensive habitat lifestyle in growing and trendy cities as the houses are not affordable. 
 
-# Final Project Link
+## Final Project Link
 https://storymaps.arcgis.com/stories/ed1b9fda946e4b03a3db7e3e3a28230e
 
