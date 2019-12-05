@@ -88,5 +88,10 @@ The aim of the final project would be to:
 ![slide_5](slide_5.jpg)
 ![slide_6](slide_6.jpg)
 Along with aforementioned changes, the graphs would be made more detailed with Tableau to better understand the Year on year trends in the market. 
+
+## Final Thoughts on the Project
+I had to drop some of the earier concepts that I thought would be beneficial for the project like plotting seperate trendlines for income and prices. This was done for support and reinfrocement of the narrative. The story revolves arund how the affordability in recent times in US has evolved or rather increased. The shortlisted cities show how recent generations suffers from reliability on expensive habitat lifestyle in growing and trendy cities as the houses are not affordable. 
+
 # Final Project Link
 https://storymaps.arcgis.com/stories/ed1b9fda946e4b03a3db7e3e3a28230e
+
