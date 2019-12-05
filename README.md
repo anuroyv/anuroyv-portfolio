@@ -6,10 +6,9 @@ These trendlines will accurately showcase how it has become impossible for almos
 The story arc:
 Housing prices in the major cities of US have been increasing by a drastic pace for a long time now. Unfortunately for people, their income level has not kept up with this steep increasing. 
 As a direct result, buying real estate for investment or living purposes has become extremely difficult for most. This trend is relatively new and affects the current working population the most. 
-One example of a matrix used to accurately gauge the relationship of housing prices and income levels is price-income ratio. Where price of a house over income is calculated and used for the basis of analysis. 
-However, this matric alone doesn’t accurately show visually how dire the situation actually is. 
-There is major gap between median household income and median household prices in all parts of the country and this gap should be used to visualize the data present.
-The final aim of this analysis to inform its audience about this detrimental trend, how it affects them, and ineffectiveness of policy decisions taken by authorities pertaining to affordability of houses. 
+One example of a matrix used to accurately gauge the relationship of housing prices and income levels is price-income ratio. Where price of a house over income of a household is calculated and used for the basis of analysis. In this aanalysis, 'median' values over regions and time were chosen as their values cn't be skewed by valuations of large exotic homes or small affordable, inexpensive houses. 
+
+The final aim of this analysis to inform its audience about this detrimental trend, how it affects them, and ineffectiveness of policy decisions taken by authorities pertaining to affordability of houses. It would alos highlight which cities are going to turn more affordable than their current state. 
 
 ## INITIAL SKETCHES
 ![Original Data Visualization](worst_affected.jpg)
